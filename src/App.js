@@ -10,7 +10,7 @@ function App() {
         zoom: 14
       }}
       style={{width: 600, height: 400}}
-      mapStyle="https://api.maptiler.com/maps/streets/style.json?key=process.env.REACT_APP_MAPBOX Comm"
+      mapStyle="https://api.maptiler.com/maps/streets/style.json?key=process.env.REACT_APP_MAPBOX CommMap"
     />
   );
 }
